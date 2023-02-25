@@ -15,3 +15,4 @@ if ((c == 'q' || c == 'e') != 1)
 putchar('\n');
 return (0);
 }
+}
